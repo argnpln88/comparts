@@ -1,0 +1,10 @@
+# Minimal hosted Auth configuration. This does not configure an email provider.
+# Review the diff, then push from an isolated work directory; do not push all
+# local-development defaults in supabase/config.toml to the hosted project.
+project_id = "rigmarket-auth-otp"
+[auth]
+additional_redirect_urls = ["com.rigmarket.rigmarket://auth/callback"]
+[auth.email]
+enable_confirmations = true
+otp_length = 6
+otp_expiry = 600

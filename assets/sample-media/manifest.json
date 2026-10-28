@@ -1,0 +1,92 @@
+[
+  {
+    "path": "categories/cpu.png",
+    "category": "cpu",
+    "label": "Processor",
+    "sha256": "83f9e2b8b1040cef1dadb35560bf4079d3712ffcd27f2203e896aa189d1542bd",
+    "bytes": 47594
+  },
+  {
+    "path": "categories/motherboard.png",
+    "category": "motherboard",
+    "label": "Motherboard",
+    "sha256": "a2191c080b4c4209131303d6d6776e54799191f001fc61ed52b76234ddcd933b",
+    "bytes": 47683
+  },
+  {
+    "path": "categories/gpu.png",
+    "category": "gpu",
+    "label": "Graphics card",
+    "sha256": "9993e7724a709ec25174ecb3a0cda83c397b10e65f5fd7799a39169f24547d56",
+    "bytes": 48235
+  },
+  {
+    "path": "categories/ram.png",
+    "category": "ram",
+    "label": "Memory",
+    "sha256": "7ef3e6bdbb1642f92f4893c45e8142c5a55f8b32a8245550de95248003d75a66",
+    "bytes": 41661
+  },
+  {
+    "path": "categories/storage.png",
+    "category": "storage",
+    "label": "Solid-state drive",
+    "sha256": "12ffc0331ca815117fdfb23a8be0f7440cdbc683ef5ea5744edcb3466722f5e7",
+    "bytes": 41268
+  },
+  {
+    "path": "categories/psu.png",
+    "category": "psu",
+    "label": "Power supply",
+    "sha256": "f87afb9f06230ca04b8796d839ed50d1bd64d5ff890020f406f24028b84aae95",
+    "bytes": 48403
+  },
+  {
+    "path": "categories/casePart.png",
+    "category": "casePart",
+    "label": "PC case",
+    "sha256": "4a62285b11d8a8942398a7589f95e024edb075d1bd47a898bcecd295b20b07ae",
+    "bytes": 50885
+  },
+  {
+    "path": "categories/cooler.png",
+    "category": "cooler",
+    "label": "CPU cooler",
+    "sha256": "78c32f66741c1de57f20884a431bb4d4d84087f5315e875bd913bf4f162a5e4d",
+    "bytes": 53792
+  },
+  {
+    "path": "categories/monitor.png",
+    "category": "monitor",
+    "label": "Monitor",
+    "sha256": "0705235ff9e15181c99d3262da02d42cd704fed19438c1aa228f8c86edaedc9b",
+    "bytes": 41898
+  },
+  {
+    "path": "categories/peripherals.png",
+    "category": "peripherals",
+    "label": "Keyboard & peripherals",
+    "sha256": "e55da6b1b7f2b226d42781c38089efa12113cdcbefc8f0cc82454b08ebf3f9e0",
+    "bytes": 58536
+  },
+  {
+    "path": "avatars/seller.png",
+    "role": "seller",
+    "label": "Sample seller avatar",
+    "sha256": "42c299a30ecbb3ffcbdae8656da97d259ed409da98a3c43d5925a9813814ca57",
+    "bytes": 7456
+  },
+  {
+    "path": "avatars/buyer.png",
+    "role": "buyer",
+    "label": "Sample buyer avatar",
+    "sha256": "75162670c0107731b62acea70b5b6e9a646509a76d436edf9ffceb746081fc17",
+    "bytes": 7552
+  },
+  {
+    "path": "branding/shop-logo.png",
+    "label": "COMPARTS sample shop logo",
+    "sha256": "d2efc058a538d192ab8e4725835c3ffdbd0c974f4d71f3f2c82055aa91ad3451",
+    "bytes": 8045
+  }
+]

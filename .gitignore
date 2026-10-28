@@ -1,0 +1,33 @@
+# Populated local configuration and credentials
+.env
+.env.*
+!.env.example
+!*.env.example
+/config/mobile.*.json
+!/config/mobile.*.example.json
+
+# Supabase local metadata
+/supabase/.temp/
+/supabase/.branches/
+
+# Node tooling
+node_modules/
+
+# Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+coverage/
+*.iml
+.idea/
+android/local.properties
+android/.gradle/
+android/.kotlin/
+android/key.properties
+*.jks
+*.keystore
+/dist/*.apk
+/dist/*.apk.sha256
+/dist/COMPARTS_DEMO_ACCOUNTS.txt

@@ -1,0 +1,16 @@
+# LOCAL DEVELOPMENT ONLY. Merge into the config created by supabase init.
+# For hosted Supabase, edit Auth settings and paste both HTML templates in Dashboard.
+[auth.email]
+enable_signup = true
+enable_confirmations = true
+otp_length = 6
+otp_expiry = 600
+max_frequency = "1m"
+
+[auth.email.template.confirmation]
+subject = "Verify your COMPARTS account"
+content_path = "./supabase/templates/confirmation.html"
+
+[auth.email.template.recovery]
+subject = "Reset your COMPARTS password"
+content_path = "./supabase/templates/recovery.html"
